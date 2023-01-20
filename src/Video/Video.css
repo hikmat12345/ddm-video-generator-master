@@ -1,0 +1,198 @@
+.Video-container{
+    width: 920px;
+    margin: auto;
+    display: block;
+}
+.Video-col{
+    width: 460px;
+    float: left;
+   
+}
+.col-padding-left{
+   padding-left: 60px;
+}
+.col-padding-right{
+    padding-right: 60px;
+ }
+.Video-yellow-text{
+    font-family: "GilroyRegular";
+    font-size: 50px;
+    line-height: 58px;
+    color: #F3C63D;
+} 
+.Video-green-text{
+    font-family: "GilroyBold";
+    font-size: 63px;
+    line-height: 73px;
+    color: #00C2CB;
+    text-transform: uppercase;
+}
+
+.Video-purple-text{
+    font-family: "GilroyBold";
+    font-size: 54px;
+    letter-spacing: 25px;
+    line-height: 62px;
+    color: #9815C3;
+}
+.Video-paragraph-text{
+    font-family: "GilroyMedium";
+    font-size: 20px;
+    line-height: 34px;
+    margin-top: 80px;
+}
+.header-bottom{
+    padding-top: 10rem;
+}
+.input-form-box{
+width: 920px;
+height: 562px;
+margin-top: 24rem;
+margin-bottom: 4rem;
+background: #F5F5F7;
+border-radius: 20px;
+padding:40px 50px 40px 50px;
+
+}
+.Video-form-container{
+    margin: 80px 0px 120px 0px;
+    width: 920px;
+    margin: auto;
+    display: block;
+} 
+.form-title{
+    font-family: "GilroyBold";
+    font-size: 30px;
+    line-height: 40px;
+    display: flex;
+    align-items: center;
+    color: #333333;
+    padding-bottom: 20px;
+}
+.input-form-box textarea{
+    width: 820px;
+    padding: 7px; 
+        font-size: 20px;
+    height: 213px !important;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 20px rgba(179, 179, 179, 0.25);
+    border-radius: 7px;
+    font-family: sans-serif;
+}
+.video-form-apply-btn{
+    width: 200px;
+    height: 60px;
+    background: #FFFFFF;
+    border: 1px solid #333333;
+    box-sizing: border-box;
+    border-radius: 10px;
+    font-family: "GilroyBold";
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    color: #333333;
+    margin-left: auto;
+   
+}
+
+.Video-form-container ::placeholder {
+    padding: 10px;
+    font-family: "GilroyRegular";
+    font-size: 20px;
+    line-height: 23px;
+    align-items: center;
+    color: #BDBDBD;
+}
+.Video-file {
+    font-family: "GilroyMedium";
+    font-size: 20px;
+    line-height: 34px;
+    display: flex;
+    align-items: center;
+    color: #333333;
+    position: relative;
+    padding-left: 41px;
+}
+.clip-file {
+    height: 30px;
+    margin-top: 14px;
+    margin-right: 23px;
+    position: absolute;
+}
+.input-form-box .d-flex {
+    padding-top: 27px;
+}
+label{
+    font-size: 20px;
+}
+.words {
+    width: 820px;
+    font-size: 20px;
+    padding: 7px;
+    height: 59px !important;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 20px rgb(179 179 179 / 25%);
+    border-radius: 5px;
+}
+
+.video-download-btn{
+    float: right;
+    height: 57px;
+    text-decoration: none;
+    padding: 13px;
+    width: 200px;
+    background: #FFFFFF;
+    border: 1px solid #333333;
+    box-sizing: border-box;
+    border-radius: 10px;
+    font-family: "GilroyBold";
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    color: #333333;
+
+}
+.video-form-apply-btn .css-1vo4nph {
+    width: 164px;
+    height: 45px;
+    padding-top: 13px;
+    padding-left: 13px;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    background-color: transparent;
+    position: relative;
+}
+.Video-form-container {
+    margin: 80px 0px 120px 0px;
+    width: 920px;
+    margin: auto;
+    position: fixed;
+    display: block;
+    bottom: 42px;
+    z-index: 99999;
+    margin: auto;
+    left: 0;
+    right: 0;
+}
+
+div[style="display: flex; flex-direction: column; flex: 1 1 0%;"] {
+    display: none !important;
+}
+div[style="position: absolute; inset: 0px; width: 100%; height: 100%; display: flex; flex-direction: column; background-color: rgb(31, 36, 40);"]{
+    background-color: initial !important;
+}
+div[style="background-color: rgb(31, 36, 40); box-shadow: black 0px 0px 4px; color: white;"]{
+    display: none !important;
+}
+div[style="flex: 1 1 0%; background: white;"]{
+    background: #848484 !important ;
+}
+ 
